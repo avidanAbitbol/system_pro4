@@ -8,7 +8,7 @@ C compiler
 ##Building the Server
 Clone the repository:
 
-git clone https://github.com/your-username/react-server.git
+git clone https://github.com/avidanAbitbol/system_pro4.git
 
 ##Navigate to the project directory:
 
